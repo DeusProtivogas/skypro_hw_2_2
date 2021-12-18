@@ -13,6 +13,7 @@ html {
 main {
     width: 300px;
     margin: 0px auto;
+
 }
 
 p {
@@ -40,7 +41,11 @@ a {
 }
 
 .button {
-
+    background-color: #2e48cb;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 13px;
+    color: white
 }
 
 /* Потом специальные правила по страничкам */
@@ -48,8 +53,11 @@ a {
 /* Login*/
 
 .input-login {
-
-
+    width: 100%;
+    border-width: 1px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 13px;
 }
 
 
