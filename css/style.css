@@ -18,7 +18,7 @@ main {
 }
 
 p {
-
+    padding-top: 1px;
 }
 
 a {
@@ -117,11 +117,19 @@ a {
 /* Страничка подписки  */
 
 .box-green {
-
+    background-color: mediumspringgreen;
+    padding: 10px 10px 10px 30px;
+    border-radius: 5px;
+    margin: 30px 0px 20px 0px;
+    line-height: 0px;
 }
 
 .box-purple {
-
+    background-color: #f8a0f8;
+    padding: 10px 10px 10px 30px;
+    border-radius: 5px;
+    margin: 30px 0px 20px 0px;
+    line-height: 0px;
 }
 
 .text-large {
